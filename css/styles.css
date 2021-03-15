@@ -25,7 +25,7 @@ body {
   background-color: thistle;
   height:150vh;
 }
-#index #settings{height:100vh;}
+#index, #settings{height:100vh;}
 .main-screen {
   padding: 0px var(--horizontal-space);
 }
